@@ -1,4 +1,4 @@
-//creation of a biinary tree and counting leaf nodes
+//creation of a binary tree and counting leaf nodes
 #include <iostream>
 using namespace std;
 
